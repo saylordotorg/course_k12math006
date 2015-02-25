@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH006: Math Grade 6"
+course_description: "Topics covered in this course include multiplication and division of fractions, ratio reasoning, unit rates, expressions, equations, area, surface area, volume, and statistics."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Coordinate Graphing** <span id="5"></span> 
 
 *Graphing on a coordinate grid helps label points in space. In this

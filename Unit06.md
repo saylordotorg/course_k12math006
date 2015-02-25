@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH006: Math Grade 6"
+course_description: "Topics covered in this course include multiplication and division of fractions, ratio reasoning, unit rates, expressions, equations, area, surface area, volume, and statistics."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Statistics** <span id="6"></span> 
 
 *Newspapers, television commentators, politicians, and sports

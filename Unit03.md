@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH006: Math Grade 6"
+course_description: "Topics covered in this course include multiplication and division of fractions, ratio reasoning, unit rates, expressions, equations, area, surface area, volume, and statistics."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Expressions and Equations** <span id="3"></span> 
 
 *Have you ever noticed that patterns are found everywhere? We use

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH006: Math Grade 6"
+course_description: "Topics covered in this course include multiplication and division of fractions, ratio reasoning, unit rates, expressions, equations, area, surface area, volume, and statistics."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Ratio and Proportion** <span id="2"></span> 
 
 *Have you ever been on a long trip and asked “are we there yet”? Have
