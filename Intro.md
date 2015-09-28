@@ -165,3 +165,4 @@ practice would be very useful.
 - [Unit 4](https://legacy.saylor.org/k12math006/Unit04/)
 - [Unit 5](https://legacy.saylor.org/k12math006/Unit05/)
 - [Unit 6](https://legacy.saylor.org/k12math006/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH006/K12MATH006-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH006/K12MATH006-FinalExam-Answers.html)
