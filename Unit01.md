@@ -198,7 +198,7 @@ listed as parts of a whole cup.*
     </table>
 
     When you have completed the above activity, check your answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/10/K12MATH006-1.1.1.1-CookieCalculationsRecipe–AnswerKey.pdf).
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/10/K12MATH006-1.1.1.1-CookieCalculationsRecipe–AnswerKey.pdf).
 
     Completing this activity should take you approximately 30 minutes.
 
@@ -769,7 +769,7 @@ should give you a good place to start.*
     “School Store Task”**
 
     Link: Howard County Public School System’s [“School Store
-    Task”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH6-School-Store-Task-Resource-Sheet.pdf) (PDF)
+    Task”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH6-School-Store-Task-Resource-Sheet.pdf) (PDF)
 
     Instructions: On the webpage above, scroll down until you find the
     activity titled “School Store.” (You will have to search carefully
@@ -779,7 +779,7 @@ should give you a good place to start.*
     that could be used to solve the problems.
 
     Use this [answer
-    key](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH6-Task-School-Store-Answer-Key.pdf) (PDF) to
+    key](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH6-Task-School-Store-Answer-Key.pdf) (PDF) to
     check your answers. This document has extension questions that you
     can use to challenge yourself. The solutions are at the bottom.
 

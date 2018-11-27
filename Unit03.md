@@ -401,7 +401,7 @@ id="3.3.4"></span> 
     “Word Problems”**
 
     Link: Howard County Public School System’s [“Word
-    Problems”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH6-Word-Problems-.pdf) (PDF)
+    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH6-Word-Problems-.pdf) (PDF)
 
     Instructions: This activity has eight problems. Two problems, \#5
     and \#8, involve inequalities, which you will learn later in this
@@ -409,7 +409,7 @@ id="3.3.4"></span> 
     in the exact expression. Complete all other word problems.
 
     When you are finished check your answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH6-Word-Problems_Answer-Key-VFINAL2.pdf) (PDF).
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH6-Word-Problems_Answer-Key-VFINAL2.pdf) (PDF).
     If your variable is a different letter than the one on the answer
     key, that is fine. Sometimes mathematicians always use the same
     variable, like x; other times mathematicians use a variable that
