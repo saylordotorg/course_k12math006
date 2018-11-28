@@ -225,7 +225,7 @@ will learn about the four quadrants involved in graphing.*
     “Mathtastic Amusement Park”**
 
     Link: Howard County Public School System’s [“Mathtastic Amusement
-    Park”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH6-Task-Amusement-Park.pdf) (PDF)
+    Park”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH6-Task-Amusement-Park.pdf) (PDF)
 
     Instructions: Read the section titled “The Task” to understand how
     the Mathtastic Amusement Park is organized.
@@ -295,7 +295,7 @@ will learn about the four quadrants involved in graphing.*
     Education Map”**
 
     Link: Howard County Public School System’s [“Outdoor Education
-    Map”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH6-Task-Outdoor-Ed.pdf) (PDF)
+    Map”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH6-Task-Outdoor-Ed.pdf) (PDF)
 
     Instruction: Scroll about halfway down the page. In the last section
     of the sixth-grade standards, download “6.NS.8 Outdoor Ed.doc.” Read
