@@ -93,7 +93,7 @@ one-, two-, and three-dimensional measurements. *
     Three-Dimensions”**
 
     Link: The Saylor Foundation’s [“Understanding One-, Two-, and
-    Three-Dimensions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH006-4.1-DimensionsTable.pdf) (PDF)
+    Three-Dimensions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH006-4.1-DimensionsTable.pdf) (PDF)
 
     Instructions: Using this resource as a guide, you will create a
     table to help you learn about dimensional measurements. In your
@@ -862,7 +862,7 @@ id="4.4.2"></span> 
     problems.
 
     Check that your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH006-4.4.2-StudentResourceSheetAnswerKey.pdf) (PDF) when
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH006-4.4.2-StudentResourceSheetAnswerKey.pdf) (PDF) when
     you are finished.
 
     Completing these practice problems should take you approximately 30
